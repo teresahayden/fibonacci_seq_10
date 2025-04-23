@@ -11,4 +11,4 @@ Python code that prints the first 10 numbers in the Fibonacci sequence.
 N/A
 
 ### Credits
-Read the explanation of the Fibonacci Sequence here: https://en.wikipedia.org/wiki/Fibonacci_sequence
+Read the explanation of the Fibonacci sequence here: https://en.wikipedia.org/wiki/Fibonacci_sequence
